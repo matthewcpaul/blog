@@ -1,2 +1,2 @@
-# blog
+# Typeahead
 first github repository
