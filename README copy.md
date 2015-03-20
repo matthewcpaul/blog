@@ -1,2 +1,0 @@
-# blog
-first github repository
