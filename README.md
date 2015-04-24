@@ -1,38 +1,42 @@
-#FED Resources
+#Resources
 
 ##Terminal
 ###To create an alias:
 
 1. type `~/.zshrc` in the terminal
 2. add `source "/Users/username/.aliases.sh"` near the top
-    * change username to your own (matthewpaul)
+	* change username to your own (matthewpaul)
 3. cmd-shift-S to duplicate the file in TextEdit, and rename it `.aliases.sh`
 4. delete all, and add `alias emojis="open http://www.emoji-cheat-sheet.com/"`
 5. type `emojis` in the terminal 
 
 ##SVG Animation
-* [A Guide to SVG Animations] (https://css-tricks.com/guide-svg-animations-smil/)
+* [Introduction to SMIL] (http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil) by Noah Blon
 
-* [Cubic Beziers] (http://cubic-bezier.com/)
+* [A Guide to SVG Animations] (https://css-tricks.com/guide-svg-animations-smil/) by Sara Soueidan
 
-* [SVG Coordinate System] (http://sarasoueidan.com/blog/svg-coordinate-systems/)
+* [CSS & SVG/SMIL Animation] (http://slides.com/sarasoueidan/animating-svg-with-css-and-smil__fonteers#/) by Sara Soueidan
 
-* [SVG Paths & Curves] (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths)
+* [SVG Coordinate System] (http://sarasoueidan.com/blog/svg-coordinate-systems/) by Sara Soueidan
 
-* [Introduction to SMIL] (http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
+* [SVG Paths & Curves] (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths): Writing your own SVGs and Bézier Curves
 
-* [CSS & SVG/SMIL Animation] (http://slides.com/sarasoueidan/animating-svg-with-css-and-smil__fonteers#/)
+* [Pocket Guide to Writing SVG] (http://svgpocketguide.com/book/): Writing your own SVGs
+
+* [Cubic Beziers] (http://cubic-bezier.com/): Test motion curves
 
 ##Sass
-* [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
+* [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass) by Jaime Caballero
 
-* [Semantic Front-end Architecture] (http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+* [Intro to semantic front-end architecture] (http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 ##Style Guides
-* [Styleguide Generators] (http://welchcanavan.com/styleguide-roundup/)
+* [Styleguide Guide] (http://vinspee.me/style-guide-guide/): Various options
+
+* [Styleguide Generators] (http://welchcanavan.com/styleguide-roundup/): Write up about a few of those options
 
 ##Gulp
-* [Live reload with Sketch/Framer] (http://www.darrinhenein.com/rapid-prototyping-part-one/)
+* [Live reload with Sketch/Framer] (http://www.darrinhenein.com/rapid-prototyping-part-one/) (Haven't tried this yet)
 
 ##Computer Science
-* [In-Depth List of Free Courses](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview)
+* [In-Depth List of Free Courses](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview) (Thank you [Una](https://github.com/una))
