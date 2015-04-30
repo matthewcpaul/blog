@@ -1,15 +1,5 @@
 #Resources
 
-##Terminal
-###To create an alias:
-
-1. type `~/.zshrc` in the terminal
-2. add `source "/Users/username/.aliases.sh"` near the top
-	* change username to your own (matthewpaul)
-3. cmd-shift-S to duplicate the file in TextEdit, and rename it `.aliases.sh`
-4. delete all, and add `alias emojis="open http://www.emoji-cheat-sheet.com/"`
-5. type `emojis` in the terminal 
-
 ##SVG Animation
 * [Introduction to SMIL] (http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil) by Noah Blon
 
@@ -25,10 +15,29 @@
 
 * [Cubic Beziers] (http://cubic-bezier.com/): Test motion curves
 
+##Terminal
+###To create an alias:
+
+1. type `~/.zshrc` in the terminal
+2. add `source "/Users/username/.aliases.sh"` near the top
+	* change username to your own (matthewpaul)
+3. cmd-shift-S to duplicate the file in TextEdit, and rename it `.aliases.sh`
+4. delete all, and add `alias emojis="open http://www.emoji-cheat-sheet.com/"`
+5. type `emojis` in the terminal 
+
 ##Sass
 * [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass) by Jaime Caballero
 
 * [Intro to semantic front-end architecture] (http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+
+##Icon Fonts
+* [IcoMoon] (https://icomoon.io/): Make your own icon font
+	*  icomoon: runs entirely in your broweser, which is pretty sweet
+		1. import 32 pixel svg
+		2. set base font size: 32
+		3. turn on ligature option, and set "xyz"
+		4. export font
+* [SymbolSet] (https://symbolset.com/): Collection of icon fonts
 
 ##Style Guides
 * [Styleguide Guide] (http://vinspee.me/style-guide-guide/): Various options
