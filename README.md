@@ -16,7 +16,7 @@
 * [Cubic Beziers] (http://cubic-bezier.com/): Test motion curves
 
 ##Terminal
-###To create an alias:
+###Create an alias:
 
 1. type `~/.zshrc` in the terminal
 2. add `source "/Users/username/.aliases.sh"` near the top
@@ -24,6 +24,9 @@
 3. cmd-shift-S to duplicate the file in TextEdit, and rename it `.aliases.sh`
 4. delete all, and add `alias emojis="open http://www.emoji-cheat-sheet.com/"`
 5. type `emojis` in the terminal 
+
+###Create a branch, and push a ingle folder to that branch (gh-pages)
+* [deploy to gh-pages] (http://www.damian.oquanta.info/posts/one-line-deployment-of-your-site-to-gh-pages.html)
 
 ##Sass
 * [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass) by Jaime Caballero
