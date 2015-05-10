@@ -1,5 +1,10 @@
 #Resources
 
+##Type Foundaries
+* [Klim] (https://klim.co.nz/): Domaine, Calibre, Founders Grotesk, National
+* [Lineto] (http://lineto.com/): Circular, Akkurat
+* [Okay Type] (http://okaytype.com/hello/friend): Alright Sans, Harriet
+
 ##SVG Animation
 * [Introduction to SMIL] (http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil) by Noah Blon
 
